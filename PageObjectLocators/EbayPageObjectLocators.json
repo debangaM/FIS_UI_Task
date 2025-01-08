@@ -1,0 +1,8 @@
+{
+  "search_textbox": "//input[@placeholder='Search for anything']",
+  "search_button": "//input[@type='submit']",
+  "search_result": "(//ul[@class='srp-results srp-list clearfix']//a[@class='s-item__link'])[1]",
+  "addToCart_button": "//span[text()='Add to cart']",
+  "cartItemsCountis1_text": "//a[@aria-label='Your shopping cart contains 1 item']",
+  "cartItemsCountis1_numeric": "//i[@id='gh-cart-n'][text()='1']"
+}
